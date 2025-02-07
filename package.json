@@ -1,0 +1,17 @@
+{
+  "name": "nodejsapp",
+  "version": "0.0.1",
+  "description": "dette er en node app som viser min node side",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "Leo",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "path": "^0.12.7"
+  }
+}
